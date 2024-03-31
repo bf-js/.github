@@ -1,4 +1,4 @@
-# Bit Forge ![javascript-f]
+# Bit Forge [![javascript-f]](https://github.com/bf-js)
 
 [javascript-f]: https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E&cacheSeconds=3600
 [eng-logo]: https://img.shields.io/badge/-eng-blue?style=flat-square&logo=googletranslate&logoColor=white&labelColor=grey&cacheSeconds=3600
